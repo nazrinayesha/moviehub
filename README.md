@@ -24,13 +24,13 @@ movies and view movie information using the TMDB API.
 Clone the repository:
 
 ``` bash
-git clone <your-repository-url>
+git clone https://github.com/nazrinayesha/movie_explorer_application.git)
 ```
 
 Go to the project folder:
 
 ``` bash
-cd movie-search-app
+cd movie_explorer_application
 ```
 
 Install dependencies:

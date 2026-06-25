@@ -55,7 +55,7 @@ The app will run on:
 Add your screenshot here:
 
 ``` markdown
-![Movie Search App Screenshot](./screenshot.png)
+![Movie Search App Screenshot](./homePage.png)
 ```
 
 ## API

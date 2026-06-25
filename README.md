@@ -24,7 +24,7 @@ movies and view movie information using the TMDB API.
 ## 📸 Project Screenshot
 
 ### homePage
-![homePage](screenshots./homePage.png)
+![homePage](./screenshots/homePage.png)
 
 
 ## 📦 Installation (Run Locally)

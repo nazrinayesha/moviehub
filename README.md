@@ -24,7 +24,7 @@ movies and view movie information using the TMDB API.
 Clone the repository:
 
 ``` bash
-git clone https://github.com/nazrinayesha/movie_explorer_application.git)
+git clone https://github.com/nazrinayesha/movie_explorer_application.git
 ```
 
 Go to the project folder:
